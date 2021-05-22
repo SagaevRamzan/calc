@@ -1,0 +1,47 @@
+
+
+.clasApp{
+    width: 450px;
+    height: 400px;
+    margin: auto;
+
+}
+
+.texbox, .calc, .footer{
+    width: 430px;
+    margin: auto;
+    height: 40px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.calc{
+
+}
+input{
+    width: 60px;
+
+}
+.button{
+    width: 70px;
+    font-size: 24px;
+    text-align: center;
+
+
+    line-height: 40px;
+
+}
+.result{
+    width: 250px;
+    height: 36px;
+}
+.reset{
+    width: 150px;
+    height: 40px;
+
+}
+.mytext{
+    width: 200px;
+}
